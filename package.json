@@ -89,7 +89,7 @@
     },
     "build": {
         "appId": "ru.aurora.launcher",
-        "productName": "yapososal",
+        "productName": "isomc",
         "publish": [
             {
                 "provider": "github",
