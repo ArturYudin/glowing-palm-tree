@@ -89,13 +89,13 @@
     },
     "build": {
         "appId": "ru.aurora.launcher",
-        "productName": "Aurora Launcher",
+        "productName": "yapososal",
         "publish": [
             {
                 "provider": "github",
                 "releaseType": "release",
-                "owner": "AuroraTeam",
-                "repo": "Launcher"
+                "owner": "ArturYudin",
+                "repo": "glowing-palm-tree"
             }
         ],
         "directories": {
