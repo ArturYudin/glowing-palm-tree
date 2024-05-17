@@ -7,13 +7,13 @@ export const window = {
     resizable: false,
     maximizable: false,
     fullscreenable: false,
-    title: 'Aurora Launcher',
+    title: 'isomc',
 };
 
 export const api = {
-    ws: 'ws://127.0.0.1:1370/ws',
-    web: 'http://127.0.0.1:1370',
+    ws: 'ws://launch.ktk40-test.ru/ws',
+    web: 'https://launch.ktk40-test.ru',
     // extraToken: token,
 };
 
-export const appPath = '.aurora-launcher';
+export const appPath = '.isomc';
