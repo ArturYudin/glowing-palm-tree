@@ -11,8 +11,8 @@ export const window = {
 };
 
 export const api = {
-    ws: 'wss://launch.ktk40-test.ru/ws',
-    web: 'https://launch.ktk40-test.ru',
+    ws: 'ws://launch.ktk40-test.ru/ws',
+    web: 'http://launch.ktk40-test.ru',
     // extraToken: token,
 };
 
