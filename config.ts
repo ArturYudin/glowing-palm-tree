@@ -13,7 +13,7 @@ export const window = {
 export const api = {
     ws: 'ws://launch.ktk40-test.ru:1370/ws',
     web: 'http://launch.ktk40-test.ru:1370',
-    // extraToken: token,
+    // extraToken: token
 };
 
 export const appPath = '.isomc';
